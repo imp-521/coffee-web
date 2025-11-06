@@ -1,4 +1,4 @@
-![پیش‌نمایش پروژه](./img/screenshot-main.png)
+![پیش‌نمایش پروژه](./img/Untitled Project(4).png)
 
 
 یک پروژه وب ساده برای کافه / معرفی نوشیدنی‌ها با HTML، CSS و JavaScript.
